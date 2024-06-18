@@ -22,5 +22,9 @@ Using dysample operator to improve yolov8 for road disease detection in computer
 python v8_dysample/ultralytics-main/train.py
 ```
 
+
+4.  视频讲解（2023201237-宋星晴.mp4）
+
+
 #### 参考文献
 [1] Liu W, Lu H, Fu H, et al. Learning to Upsample by Learning to Sample[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 6027-6037. 
